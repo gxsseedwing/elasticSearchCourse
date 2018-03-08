@@ -14,18 +14,11 @@ public class DocumentResult
 	private String scrollID;
 	
 	private Map<String,Object> aggValues;
-	
-
-	private String name;
-
-	private long test;
-
 
 	public String getScrollID() {
 		return scrollID;
 	}
 	
-
 	public void setScrollID(String scrollID) {
 		this.scrollID = scrollID;
 	}
@@ -71,5 +64,4 @@ public class DocumentResult
 				+ "]";
 	}
 
-	
 }
