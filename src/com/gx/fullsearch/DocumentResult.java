@@ -22,6 +22,7 @@ public class DocumentResult
 	public void setScrollID(String scrollID) {
 		this.scrollID = scrollID;
 	}
+	
 
 	public long getTotalCount() {
 		return totalCount;
