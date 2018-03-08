@@ -19,7 +19,6 @@ public class DocumentResult
 		return scrollID;
 	}
 	
-
 	public void setScrollID(String scrollID) {
 		this.scrollID = scrollID;
 	}
@@ -65,5 +64,4 @@ public class DocumentResult
 				+ "]";
 	}
 
-	
 }
