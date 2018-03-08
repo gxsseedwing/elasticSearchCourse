@@ -15,7 +15,11 @@ public class DocumentResult
 	
 	private Map<String,Object> aggValues;
 	
+
 	private String name;
+
+	private long test;
+
 
 	public String getScrollID() {
 		return scrollID;
