@@ -14,7 +14,7 @@ public class DocumentResult
 	private String scrollID;
 	
 	private Map<String,Object> aggValues;
-
+	private Map<String,Object> aggValues1;
 	public String getScrollID() {
 		return scrollID;
 	}
