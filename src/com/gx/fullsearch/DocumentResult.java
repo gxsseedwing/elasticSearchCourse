@@ -18,7 +18,6 @@ public class DocumentResult
 	public String getScrollID() {
 		return scrollID;
 	}
-	
 
 	public void setScrollID(String scrollID) {
 		this.scrollID = scrollID;
