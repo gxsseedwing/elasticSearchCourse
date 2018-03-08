@@ -14,7 +14,7 @@ public class DocumentResult
 	private String scrollID;
 	
 	private Map<String,Object> aggValues;
-
+	private Map<String,Object> aggValues1;
 	public String getScrollID() {
 		return scrollID;
 	}
@@ -22,7 +22,6 @@ public class DocumentResult
 	public void setScrollID(String scrollID) {
 		this.scrollID = scrollID;
 	}
-	
 
 	public long getTotalCount() {
 		return totalCount;
